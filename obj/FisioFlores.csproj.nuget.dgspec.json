@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Biblioteca\\Documentos\\GitHub\\backend_fisioflores\\FisioFlores.csproj": {}
+    "C:\\Users\\Carolina\\Documents\\GitHub\\Tesis-aplicacion-servicios\\FisioFlores.csproj": {}
   },
   "projects": {
-    "D:\\Biblioteca\\Documentos\\GitHub\\backend_fisioflores\\FisioFlores.csproj": {
+    "C:\\Users\\Carolina\\Documents\\GitHub\\Tesis-aplicacion-servicios\\FisioFlores.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Biblioteca\\Documentos\\GitHub\\backend_fisioflores\\FisioFlores.csproj",
+        "projectUniqueName": "C:\\Users\\Carolina\\Documents\\GitHub\\Tesis-aplicacion-servicios\\FisioFlores.csproj",
         "projectName": "FisioFlores",
-        "projectPath": "D:\\Biblioteca\\Documentos\\GitHub\\backend_fisioflores\\FisioFlores.csproj",
-        "packagesPath": "C:\\Users\\Sergio\\.nuget\\packages\\",
-        "outputPath": "D:\\Biblioteca\\Documentos\\GitHub\\backend_fisioflores\\obj\\",
+        "projectPath": "C:\\Users\\Carolina\\Documents\\GitHub\\Tesis-aplicacion-servicios\\FisioFlores.csproj",
+        "packagesPath": "C:\\Users\\Carolina\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Carolina\\Documents\\GitHub\\Tesis-aplicacion-servicios\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Sergio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Carolina\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -96,7 +96,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.407\\RuntimeIdentifierGraph.json"
         }
       }
     }
